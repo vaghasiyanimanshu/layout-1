@@ -1,0 +1,159 @@
+@media (max-width:1199px) {
+    .container{
+        max-width: 1140px !important;
+    }
+}
+@media (max-width:992px) {
+    .container{
+        max-width: 960px !important;
+    }
+    .main-page .main-body .main-banner .banner-inner .banner-text h1{
+        font-size: 50px;
+        line-height: 50px
+    }
+    .main-page .main-body .main-banner .banner-inner .banner-text .discount{
+        font-size: 30px;
+    }
+      
+}
+@media (max-width:768px) {
+    .container{
+        max-width: 760px !important;
+    }
+    .main-header .header-inner .header-bottom .main-menu {
+        display: none;
+    }
+    .main-page .main-body .main-banner .banner-inner .banner-text h1{
+        font-size: 30px;
+        line-height: 30px
+    }
+    .main-page .main-body .main-banner .banner-inner .banner-text .discount{
+        font-size: 22px;
+    }
+    .main-page .main-body .main-banner .banner-inner .banner-text .price-text{
+        font-size: 22px;
+        line-height: 20px;
+    }
+    .main-page .main-body .main-banner .banner-inner .banner-text .order button{
+        padding: 10px 15px;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .main-page .main-body .services-block .services-inner .part .text strong {
+        font-size: 18px;
+        
+    }
+    .main-page .main-body .services-block .services-inner .part .text p {
+        font-size: 12px;
+        max-width: 80%;
+    }
+    .main-page .main-body .category-block .category-inner .food-type .view{
+        display: none;
+    }
+    .main-page .main-body .category-block .category-inner .food-type .food{
+        width: 25%;
+    }
+    .main-page .main-body .category-block .category-inner .category-add .add{
+        padding: 10px;
+    }
+    .main-page .main-body .category-block .category-inner .category-add .add .add-text .text-top strong {
+        font-size: 30px;
+    }
+    .main-page .main-body .category-block .category-inner .category-add .add .add-text .text-top p {
+        font-size: 17px;
+    } 
+    .main-page .main-body .dishes-block .dishes-inner .dishes-for-sale .view{
+        display: none;
+    }
+    .main-page .main-body .dishes-block .dishes-inner .dishes-for-sale .dishes-set {
+        width: 33.33%;
+    }
+    .main-page .main-body .dishes-block .dishes-inner .dishes-delivery .delivery-text p strong {
+        font-size: 26px;
+    }
+    .main-page .main-body .dishes-block .dishes-inner .dishes-delivery .delivery-text p {
+        font-size: 50px;
+        line-height: 1;
+    }
+    .main-page .main-body .dishes-block .dishes-inner .dishes-delivery .delivery-text .order button {
+        padding: 10px 20px;
+    }
+    .main-page .main-body .new-product .new-product-inner .product-pic .view{
+        display: none;
+    }
+    .main-page .main-body .new-product .new-product-inner .product-pic .new-pic {
+        width: 33.33%;
+    }
+    .main-page .main-body .testimonial .testimonial-inner .testimonial-info .view{
+        display: none;
+    }
+    .main-page .main-body .testimonial .testimonial-inner .testimonial-info .testimonial-info-inner {
+        width: 100%;
+    }
+    .main-page .main-body .brand .brand-inner .brand-logos .view{
+        display: none;
+    }
+    .main-page .main-body .brand .brand-inner .brand-logos .logo{
+        width: 33.33%;
+    }
+
+}
+@media (max-width:576px) {
+    .container{
+        max-width: 540px !important;
+    }
+    .main-page .main-body .main-banner .banner-inner .banner-text .discount {
+        font-size: 19px;
+        line-height: 2;
+      }
+      .category-inner .category-add .add .add-text .text-top strong {
+        font-size: 20px;
+      }
+      .main-page .main-body .main-banner .banner-inner .banner-text .order a {
+        padding: 10px 15px;
+      }
+      .main-page .main-body .main-banner .banner-inner .banner-text .order {
+        line-height: 4;
+      }
+      .main-page .main-body .category-block .category-inner .category-add .view{
+        display: none;
+      }
+      .main-page .main-body .category-block .category-inner .category-add .add{
+        width: 100%;
+      }
+      .main-page .main-body .category-block .category-inner .category-add .add .add-text .text-top strong {
+        font-size: 40px;
+      }
+      .main-page .main-body .category-block .category-inner .category-add .add .add-text .text-top p {
+        font-size: 25px;
+        font-weight: 500;
+      }
+      .main-page .main-body .category-block .category-inner .category-add .add .add-text .text-bottom .code{
+        font-size: 45px;
+      }
+      .main-page .main-body .category-block .category-inner .category-add .add .add-text .text-bottom {
+        margin-top: 20px;
+      }
+      .main-page .main-body .dishes-block .dishes-inner .dishes-for-sale .show{
+        display: none;
+      }
+      .main-page .main-body .dishes-block .dishes-inner .dishes-for-sale .dishes-set{
+        width: 50%;
+      }
+      .main-page .main-body .dishes-block .dishes-inner .dishes-delivery .delivery-text p {
+        font-size: 35px;
+        line-height: 35px;
+      }
+      .main-page .main-body .dishes-block .dishes-inner .dishes-delivery .delivery-text p strong {
+        font-size: 21px;
+      }
+      .main-page .main-body .dishes-block .dishes-inner .dishes-delivery .delivery-text .order a{
+        padding: 10px 20px;       
+      }     
+      .main-page .main-body .new-product .new-product-inner .product-pic .show{
+        display: none;
+      }
+      .main-page .main-body .new-product .new-product-inner .product-pic .new-pic{
+        width: 50%;
+      }
+}
