@@ -8,7 +8,9 @@
   .container {
     max-width: 960px !important;
   }
-
+  .action {
+    height:100%;
+  }
   .main-page .main-body .main-banner .banner-inner .banner-text h1 {
     font-size: 50px;
     line-height: 50px
@@ -25,6 +27,9 @@
     max-width: 760px !important;
   }
 
+  .main-footer .footer-top .top-inner .top-col .subscribe .subscribe-in input {
+    font-size: 10px;
+  }
   .main-header .header-inner .header-bottom .main-menu {
     display: none;
   }
@@ -129,6 +134,9 @@
 @media (max-width:576px) {
   .container {
     max-width: 540px !important;
+  }
+  .main-footer .footer-top .top-inner .top-col{
+    display: none ;
   }
 
   .main-page .main-body .main-banner .banner-inner .banner-text .discount {
